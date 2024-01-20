@@ -1,4 +1,3 @@
-#This is a Sample HoneyPot Site
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
