@@ -1,4 +1,3 @@
-# This is test program for DevOps
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
