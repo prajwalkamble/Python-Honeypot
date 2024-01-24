@@ -1,4 +1,4 @@
-#This is the test program.
+# Meow Meow niggah.
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
